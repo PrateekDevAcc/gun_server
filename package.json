@@ -1,0 +1,16 @@
+{
+  "name": "gun_server",
+  "version": "1.0.0",
+  "description": "This is server for gundb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Prateek Patel",
+  "license": "ISC",
+  "dependencies": {
+    "gun": "^0.2020.401",
+    "gun-mongo": "^0.1.2"
+  }
+}
